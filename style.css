@@ -1,0 +1,64 @@
+/* section {
+  background-color: chocolate;
+}
+
+img {
+  width: 300px;
+  margin: 30px 25px 20px 15px;
+  padding: 30px;
+  border: 3px solid red;
+}
+
+.one {
+  background-color: green;
+  height: 200px;
+  width: 600px;
+}
+
+.two {
+  background-color: red;
+  height: 200px;
+  width: 30%;
+}
+
+.three {
+  background-color: blueviolet;
+  height: 30vh;
+  width: 30 vw;
+} */
+.grocery_section {
+  background-color: rgb(250, 233, 213);
+  border: 3px solid rgb(59, 54, 33);
+  margin: 30px;
+  padding: 10px;
+  width: 30%;
+}
+
+.grocery_header {
+  background-color: rgb(254, 204, 144);
+}
+
+ul {
+  list-style-type: square;
+}
+
+ol {
+  list-style-type: upper-roman;
+}
+
+.produce_meat {
+  display: flex;
+}
+
+.bread_snacks {
+  display: flex;
+}
+
+.produce_meat_img {
+  width: 30%;
+  margin: 30px;
+}
+
+.cereal {
+  margin: 30px;
+}
